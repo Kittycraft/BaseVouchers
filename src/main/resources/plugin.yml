@@ -1,0 +1,9 @@
+name: BaseVoucherSupport
+version: 1.0.0
+main: org.thelockj.basevouchersupport.BaseVoucher
+author: thelockj
+description: Adds support for base vouchers.
+depend: [WorldGuard,Factions]
+commands:
+  basevoucher:
+    description: Load base.
